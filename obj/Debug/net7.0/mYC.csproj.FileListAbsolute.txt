@@ -1,0 +1,15 @@
+C:\mYC\bin\Debug\net7.0\mYC.exe
+C:\mYC\bin\Debug\net7.0\mYC.deps.json
+C:\mYC\bin\Debug\net7.0\mYC.runtimeconfig.json
+C:\mYC\bin\Debug\net7.0\mYC.dll
+C:\mYC\bin\Debug\net7.0\mYC.pdb
+C:\mYC\obj\Debug\net7.0\mYC.csproj.AssemblyReference.cache
+C:\mYC\obj\Debug\net7.0\mYC.GeneratedMSBuildEditorConfig.editorconfig
+C:\mYC\obj\Debug\net7.0\mYC.AssemblyInfoInputs.cache
+C:\mYC\obj\Debug\net7.0\mYC.AssemblyInfo.cs
+C:\mYC\obj\Debug\net7.0\mYC.csproj.CoreCompileInputs.cache
+C:\mYC\obj\Debug\net7.0\mYC.dll
+C:\mYC\obj\Debug\net7.0\refint\mYC.dll
+C:\mYC\obj\Debug\net7.0\mYC.pdb
+C:\mYC\obj\Debug\net7.0\mYC.genruntimeconfig.cache
+C:\mYC\obj\Debug\net7.0\ref\mYC.dll
